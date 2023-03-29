@@ -8,56 +8,59 @@
 
 ### 1 Навігація по файловій системі через засоби оболонки Git Bash інтерпретатору командного рядку Bash:
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.1.pdf)
+![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.1.pdf)
 Рис.1 - Отримання переліку файлів поточного каталогу з урахуванням видимості прихованих файлів.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.2.pdf)
+![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.2.pdf)
 Рис.2 - Переходимо до прихованого каталогу .git, використовуючи команду pushd з метою швидкого повернення до попереднього каталогу у майбутньому.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.3.pdf)
+![Рис3](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.3.pdf)
 Рис.3 - Переглядаємо вміст файлу config, використовуючи редактор nano.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.4.pdf)
+![Рис4](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.4.pdf)
 Рис.4 - Отримаємо перелік файлів поточного каталогу з урахуванням умов завдання за допомогою команди ls -lahS.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.5.pdf)
+![Рис5](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.5.pdf)
 Рис.5 - Повертаємося до каталогу, використовуючи команду швидкого повернення popd.
 
 ### 2 Налаштування псевдонімів команд оболонки Bash:
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.1.pdf)
+![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.1.pdf)
 Рис.1 - Виконуємо команду alias для створення псевдоніму виклику команди touch. Перевіряємо роботу псевдоніму команди.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.2.pdf)
+![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.2.pdf)
 Рис.2 - Виконуємо команду alias для створення псевдоніму виклику команди date +%d-%m-%y, яка буде надавати поточну дату лише із поточним днем, місяцем та роком. 
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.3.pdf)
+![Рис3](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.3.pdf)
 Рис.3 - Використовуючи текстовий редактор nano, відрегадували файл .bash_profile та додали у файл два рядки зі створеними раніше псевдонімами виклику команд. Після цього виходимо з GitBash.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.5.pdf)
+![Рис4](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.5.pdf)
 Рис.4 - Відкриваємо GitBash та перевіряємо псевдоніми команд.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.6.pdf)
+![Рис5](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.6.pdf)
 Рис.5 - Копіюємо файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію.
 
 ### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків:
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.1.pdf)
+![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.1.pdf)
+Рис.1 - Створюємо файл balaban_1, використовуючи команду cat з перенаправленням stdin-потоку на stdout-потік так, що файл містить один рядок з моїм прізвищем та ім’ям.
 
+![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.2.pdf)
+Рис.2 - Додаємо до створеного файлу через перенаправлення stdout-потоку ще один рядок з номером моєї групи.
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.2.pdf)
+![Рис3](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.3.pdf)
+Рис.3 - Створюємо файл balaban_2, який містить два рядки, створені через перенаправлення stdout-потоку двох наступних команд:
+- команда визначення назви поточного каталогу, в якому ви знаходитеся, формує
+перший рядок;
+- команда визначення імені поточного користувача ОС, формує другий рядок;
 
+![Рис4](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.4.pdf)
+Рис.4 - Об`єднуємо два раніше створені файли в один файл командою cat зі створенням нового файлу, назва якого – balaban.cat.txt;
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.3.pdf)
+![Рис5](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.5.pdf)
+Рис.5 - Повторюємо об`єднання файлів, але вже командою paste зі створенням нового файлу, де назва файлу – balaban.paste.txt;
 
-
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.4.pdf)
-
-
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.5.pdf)
-
-
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.6.pdf)
-
+![Рис6](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.6.pdf)
+Рис.6 - Виконуємо Git-команди add та commit із коментарем «Changed by Local Git» для створення нового Git-знімку.
 
 ### 4 Проста обробка результатів виконання команд
