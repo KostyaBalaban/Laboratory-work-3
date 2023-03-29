@@ -1,8 +1,8 @@
 ## Проста обробка текстових даних засобами оболонки Unix-подібних ОС інтер команд ОС
 
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.pdf)
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.5.pdf)
-![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.6.pdf)
+![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.pdf)
+![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.5.pdf)
+![Рис3](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.6.pdf)
 
 Рис.1, Рис.2, Рис.3 - Клонування гіт-репозиторію, створення гілки Laboratory-work-3 та однойменного каталогу, створення файлу README та його обробка за допомогою команди nano, через послідовність Git-команд add, commit із коментарем «Changed by Local Git» та push завантажуємо файл README на GitHub.
 
@@ -40,6 +40,24 @@
 ![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.6.pdf)
 Рис.5 - Копіюємо файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію.
 
-### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
+### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків:
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.1.pdf)
+
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.2.pdf)
+
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.3.pdf)
+
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.4.pdf)
+
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.5.pdf)
+
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.6.pdf)
+
 
 ### 4 Проста обробка результатів виконання команд
