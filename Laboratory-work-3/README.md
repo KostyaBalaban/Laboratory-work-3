@@ -23,7 +23,22 @@
 ![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.2.5.pdf)
 Рис.5 - Повертаємося до каталогу, використовуючи команду швидкого повернення popd.
 
-### 2 Налаштування псевдонімів команд оболонки Bash
+### 2 Налаштування псевдонімів команд оболонки Bash:
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.1.pdf)
+Рис.1 - Виконуємо команду alias для створення псевдоніму виклику команди touch. Перевіряємо роботу псевдоніму команди.
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.2.pdf)
+Рис.2 - Виконуємо команду alias для створення псевдоніму виклику команди date +%d-%m-%y, яка буде надавати поточну дату лише із поточним днем, місяцем та роком. 
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.3.pdf)
+Рис.3 - Використовуючи текстовий редактор nano, відрегадували файл .bash_profile та додали у файл два рядки зі створеними раніше псевдонімами виклику команд. Після цього виходимо з GitBash.
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.5.pdf)
+Рис.4 - Відкриваємо GitBash та перевіряємо псевдоніми команд.
+
+![image](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.3.6.pdf)
+Рис.5 - Копіюємо файл .bash_profile до каталогу «Laboratory-work-3» Git-репозиторію.
 
 ### 3 Робота з файлами через перенаправлення вхідних/вихідних потоків
 
