@@ -1,4 +1,4 @@
-## Проста обробка текстових даних засобами оболонки Unix-подібних ОС інтер команд ОС
+## Проста обробка текстових даних засобами оболонки Unix-подібних ОС інтерпретора команд ОС
 
 ![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.pdf)
 ![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.5.pdf)
