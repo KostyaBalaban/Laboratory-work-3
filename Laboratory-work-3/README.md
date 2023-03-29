@@ -63,4 +63,19 @@
 ![Рис6](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.4.6.pdf)
 Рис.6 - Виконуємо Git-команди add та commit із коментарем «Changed by Local Git» для створення нового Git-знімку.
 
-### 4 Проста обробка результатів виконання команд
+### 4 Проста обробка результатів виконання команд:
+
+![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.5.1.pdf)
+Рис.1 - Отримємо перелік каталогів для швидкого пошуку файлів, які можуть виконуватися в командному рядку без вказування повного шляху до файлу.
+
+![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.5.2.pdf)
+Рис.2 - Змінюємо рішення попереднього завдання так, щоб всі назви каталогів були в окремих рядках.
+
+![Рис3](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.5.3.pdf)
+Рис.3 - Змінюємо рішення попереднього завдання, впорядкувавши значення назв каталогів за зростанням та видаливши всі дублікати цих назв.
+
+![Рис4](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.5.4.pdf)
+Рис.4 - Змінюємо рішення попереднього завдання, визначивши лише перші 5 назв каталогів.
+
+![Рис5](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.5.5.pdf)
+Рис.5 - Проводимо статистичний аналіз результату завдання 2.5.3, отримавши кількість каталогів та розмір найбільшої назви каталогу.
