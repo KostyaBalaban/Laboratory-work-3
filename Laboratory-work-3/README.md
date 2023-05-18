@@ -1,6 +1,6 @@
 ## Проста обробка текстових даних засобами оболонки Unix-подібних ОС інтерпретора команд ОС
 
-![Рис1](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.png)
+![Рис1](https://github.com/oleksandrblazhko/ai222-elkamali/assets/126423069/cd076606-b65a-4d06-8723-c95028214237)
 ![Рис2](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.5.png)
 ![Рис3](https://github.com/KostyaBalaban/Laboratory-work-3/blob/main/Laboratory-work-3/imagesforREADME/2.1.1.6.png)
 
